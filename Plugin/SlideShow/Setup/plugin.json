@@ -1,0 +1,21 @@
+{
+"title": "Slide Show",
+"version": "1.00",
+"name": "SlideShow",
+"description": "Slide Show images plugin",
+"author": "Puslapiai.eu <info@puslapiai.eu>",
+"options": [
+            {
+                "label": "Image width",
+                "name": "imageWidth",
+                "type": "text",
+                "default": "1121"
+            },
+			{
+                "label": "Image height",
+                "name": "imageHeight",
+                "type": "text",
+                "default": "397"
+            }
+        ]
+}

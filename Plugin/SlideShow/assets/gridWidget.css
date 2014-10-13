@@ -1,0 +1,30 @@
+.ipPluginSlideShowPopup iframe {
+    width: 100%;
+    height: 100%;
+}
+
+
+.ip.ipPluginSlideShowPopup .modal-dialog {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.ip.ipPluginSlideShowPopup .modal-content {
+    height: 100%;
+    border-radius: 0;
+    border: none;
+}
+
+.ip.ipPluginSlideShowPopup .modal-footer {
+    margin-top: -50px;
+}
+
+.ip.ipPluginSlideShowPopup .modal-header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}

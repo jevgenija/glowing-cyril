@@ -1,0 +1,28 @@
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li img{display:block;height: 140px;
+    width: 140px;}
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li .fa{display:none;}
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li{
+	float: left;
+    margin: 10px 0 0 10px;
+}
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li:after {
+	font-size: 36px;
+    left: 50%;
+    margin: -16px 0 0 -16px;
+    text-shadow: -2px 0 rgba(255, 255, 255, 0.8), 0 2px rgba(255, 255, 255, 0.8), 2px 0 rgba(255, 255, 255, 0.8), 0 -2px rgba(255, 255, 255, 0.8);
+    top: 50%;
+}
+
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li.ui-selected img {
+    border-color: #019bd4;
+    outline: 1px solid #019bd4;
+}
+
+.ip .ipModuleRepositoryPopup ._tabUpload ._browser ._browserContainer ._list._previewType-list li span{
+	width: 140px;
+	display:block;
+	word-wrap:break-word;
+	height:60px;
+	overflow:hidden;
+	text-align:center;
+}

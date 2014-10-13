@@ -1,0 +1,9 @@
+.ipWidget .carousel {margin-bottom:18px;}
+.ipWidget .carousel-caption {top: 10%; left: 0; bottom:auto; right: 0; width: 100%; text-align: left; padding-bottom: 0;}
+.ipWidget .carousel-caption .description {margin-right: 30px; background: #393939; color: #fff; padding: 30px; font-family: 'Raleway Thin', Arial; font-size: 20px;}
+.ipWidget .carousel-caption .description p {margin-bottom: 0;}
+.ipWidget .carousel-caption h2 {color: #f7f7f7;}
+.ipWidget .carousel-indicators {margin-bottom: 10px; margin-left: 0; height: 16px; bottom: 0; left: 47px; text-align: left;}
+.ipWidget .carousel-indicators li {border: none; background: #393939; margin: 0; height: 16px; width: 16px;  -webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;}
+.ipWidget .carousel-indicators li.active {height: 16px; margin: 0; width: 16px;background: #f7f7f7;}
+.ipWidget .carousel-inner > .item > img, .ipWidget  .carousel-inner > .item > a > img{max-height:100%;max-width:initial;display:inline;}
